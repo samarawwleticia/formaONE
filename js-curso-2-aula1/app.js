@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = []; //cria lista de numeros que já foram sorteados
-let numeroLimite = 10; //numero limite de chutes 
+let numeroLimite = 100; //numero limite de chutes 
 let numeroSecreto = gerarNumeroAleatorio(); //gera numero sorteado
 let tentativas = 1; //inicializa numero de tentativas = 1
 
